@@ -1,6 +1,6 @@
 # Monotone Deletion on Structured Graphs: A Complexity Hierarchy from Flow to Search, with an Application to Adversarial Narrative Retraction
 
-**Authors:** [Redacted for Review]  
+**Authors:** [Wadoed Baykir]  
 **Affiliations:** [Redacted for Review]  
 **Date:** July 2026
 
