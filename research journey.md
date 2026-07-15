@@ -1,5 +1,5 @@
 
-# The Empirical Characterization of the Monotone Deletion Problem: A Research Journey from Flow to Search (Part 1)
+# The Empirical Characterization of the Monotone Deletion Problem: A Research Journey from Flow to Search 
 
 ## Abstract
 This document compiles the exhaustive empirical and systems-level R&D journey of the Narrative Retraction Engine (NRE) and the Homotopic Hitting-Set $A^*$ (HHS-A\*) framework. We trace the project's development from its initial theoretical formulation through consecutive phases of performance crises, silent algorithmic bugs, and mathematical course corrections. By exposing our raw measurement data, profiling CPU bottlenecks, and evaluating state-space search lattices, we establish a mathematically rigorous, unhyped systems-engineering contract that defines the exact boundaries under which advanced topological heuristics are justified over unguided, highly optimized baselines.
